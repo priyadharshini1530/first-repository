@@ -7,3 +7,5 @@ roll no
 exam results
 marks
 grades
+date of exam
+date of result

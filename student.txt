@@ -4,3 +4,6 @@ pin code
 class
 section
 roll no
+exam results
+marks
+grades

@@ -2,3 +2,5 @@ student name p
 address 
 pin code
 class
+section
+roll no

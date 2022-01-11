@@ -1,0 +1,4 @@
+student name p
+address 
+pin code
+class

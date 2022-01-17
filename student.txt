@@ -9,3 +9,5 @@ marks
 grades
 date of exam
 date of result
+teacher name
+teacher no

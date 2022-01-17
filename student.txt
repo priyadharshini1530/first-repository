@@ -9,3 +9,6 @@ marks
 grades
 date of exam
 date of result
+course name
+course no
+course teacher
